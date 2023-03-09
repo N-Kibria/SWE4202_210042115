@@ -14,7 +14,7 @@ namespace lab_08
         public int inventory { get; set; }
         public Employee() 
         {
-            inventory = new inventory();
+           // inventory = new inventory();
 
         }
         public abstract void get_salary(int id);
