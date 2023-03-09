@@ -11,10 +11,10 @@ namespace lab_08
         public int Id { get; set; }
         public string Name { get; set; }
         public double base_salary { get; set; }
-        public int inventory { get; set; }
+        public Inventory inventory { get; set; }
         public Employee() 
         {
-           // inventory = new inventory();
+            inventory = new Inventory();
 
         }
         public abstract void get_salary(int id);
