@@ -1,0 +1,11 @@
+G:\IUT\Semester\1-2\SWE 4202\lab 9\lab 9\bin\Debug\lab 9.exe.config
+G:\IUT\Semester\1-2\SWE 4202\lab 9\lab 9\bin\Debug\lab 9.exe
+G:\IUT\Semester\1-2\SWE 4202\lab 9\lab 9\bin\Debug\lab 9.pdb
+G:\IUT\Semester\1-2\SWE 4202\lab 9\lab 9\obj\Debug\lab 9.csproj.AssemblyReference.cache
+G:\IUT\Semester\1-2\SWE 4202\lab 9\lab 9\obj\Debug\lab 9.csproj.SuggestedBindingRedirects.cache
+G:\IUT\Semester\1-2\SWE 4202\lab 9\lab 9\obj\Debug\lab_9.Form1.resources
+G:\IUT\Semester\1-2\SWE 4202\lab 9\lab 9\obj\Debug\lab_9.Properties.Resources.resources
+G:\IUT\Semester\1-2\SWE 4202\lab 9\lab 9\obj\Debug\lab 9.csproj.GenerateResource.cache
+G:\IUT\Semester\1-2\SWE 4202\lab 9\lab 9\obj\Debug\lab 9.csproj.CoreCompileInputs.cache
+G:\IUT\Semester\1-2\SWE 4202\lab 9\lab 9\obj\Debug\lab 9.exe
+G:\IUT\Semester\1-2\SWE 4202\lab 9\lab 9\obj\Debug\lab 9.pdb
