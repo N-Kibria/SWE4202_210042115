@@ -50,7 +50,7 @@
             // button2
             // 
             this.button2.ForeColor = System.Drawing.Color.Red;
-            this.button2.Location = new System.Drawing.Point(321, 250);
+            this.button2.Location = new System.Drawing.Point(356, 250);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(127, 42);
             this.button2.TabIndex = 1;
