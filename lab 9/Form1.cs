@@ -16,5 +16,17 @@ namespace lab_9
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Sign_Up f2= new Sign_Up();
+            f2.Show();
+            this.Hide();
+        }
     }
 }
