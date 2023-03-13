@@ -9,3 +9,4 @@ G:\IUT\Semester\1-2\SWE 4202\lab 9\lab 9\obj\Debug\lab 9.csproj.GenerateResource
 G:\IUT\Semester\1-2\SWE 4202\lab 9\lab 9\obj\Debug\lab 9.csproj.CoreCompileInputs.cache
 G:\IUT\Semester\1-2\SWE 4202\lab 9\lab 9\obj\Debug\lab 9.exe
 G:\IUT\Semester\1-2\SWE 4202\lab 9\lab 9\obj\Debug\lab 9.pdb
+G:\IUT\Semester\1-2\SWE 4202\lab 9\lab 9\obj\Debug\lab_9.Sign_Up.resources
