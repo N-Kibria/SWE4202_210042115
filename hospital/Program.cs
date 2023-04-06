@@ -10,6 +10,7 @@ namespace hospital
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
