@@ -13,6 +13,8 @@ namespace hospital
         public string Phone { get; set; }
         public string Email { get; set; }
         public DateTime HireDate { get; set; }
+        public string position { get; set; }
+        public string department { get; set; }
 
         public employee(string name, string address, string phone, string email, DateTime hireDate)
         {
