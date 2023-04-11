@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace hospital
 {
-    internal class managementstaff : employee
+    public class managementstaff : employee
     {
         public string Department { get; set; }
         public string Position { get; set; }

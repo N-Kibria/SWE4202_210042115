@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace hospital
 {
-    internal class hospital
+    public class hospital
     {
         private List<employee> employees= new List<employee>();
 

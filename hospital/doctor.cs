@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace hospital
 {
-    internal class doctor : employee
+    public class doctor : employee
     {
         public string Department { get; set; }
         public string Position { get; set; }
@@ -21,14 +21,6 @@ namespace hospital
             WorksWith = worksWith;
         }
 
-        public override int CalculateYearsOfService()
-        {
-            return DateTime.Now.Year - HireDate.Year;
-        }
-
-        public override int ShowDetails()
-        {
-            return CalculateYearsOfService();
-        }
+       
     }
 }

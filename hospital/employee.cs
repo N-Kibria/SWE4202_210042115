@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace hospital
 {
-    internal abstract class employee
+    public class employee
     {
         public string Name { get; set; }
         public string Address { get; set; }
@@ -24,8 +24,15 @@ namespace hospital
             Email = email;
             HireDate = hireDate;
         }
-        public abstract int CalculateYearsOfService();
+        public int CalculateYearsOfService()
+        {
+            return DateTime.Now.Year - HireDate.Year;
+        }
 
-        public abstract int ShowDetails();
+        public int ShowDetails()
+        {
+            return CalculateYearsOfService();
+        }
+
     }
 }
